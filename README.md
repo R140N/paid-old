@@ -14,9 +14,14 @@ pip install bs4
 pip install mechanize
 pip install rich
 pip install requests
+
 #Script Run 
+
 rm -rf paid-old
+
 git clone https://github.com/R140N/paid-old
+
 cd paid-old
+
 python run.py
 
